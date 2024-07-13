@@ -1,7 +1,7 @@
 # AGE ADVISOR CHATBOT
 👨‍💻É UM ASSISTENTE VIRTUAL DESENVOLVIDO UTILIZANDO REACT E REDUX, PROJETADO PARA INTERAGIR COM USUÁRIOS ATRAVÉS DE UM CHATBOT E FORNECER FUNCIONALIDADES BASEADAS NA SELEÇÃO DE IDADE.
 
-<img src="FOTO.mp4" align="center" width="400"> <br>
+<img src="FOTO.png" align="center" width="400"> <br>
 
 ## DESCRIÇÃO:
 O projeto "Age Advisor Chatbot" é um assistente virtual desenvolvido utilizando React e Redux, projetado para interagir com usuários através de um chatbot e fornecer funcionalidades baseadas na seleção de idade.
